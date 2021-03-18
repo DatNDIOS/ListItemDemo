@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:ListViewDemo/models/Item.dart';
-import 'package:ListViewDemo/models/Items.dart';
+import 'package:ListItemsDemo/models/Item.dart';
+import 'package:ListItemsDemo/models/Items.dart';
 
 class AddOrEditItemScreen extends StatefulWidget {
   final Items items;

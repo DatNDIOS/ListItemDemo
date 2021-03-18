@@ -1,8 +1,8 @@
-import 'package:ListViewDemo/models/Items.dart';
-import 'package:ListViewDemo/views/AddOrEditItemScreen.dart';
+import 'package:ListItemsDemo/models/Items.dart';
+import 'package:ListItemsDemo/views/AddOrEditItemScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
-import 'package:ListViewDemo/models/Item.dart';
+import 'package:ListItemsDemo/models/Item.dart';
 import 'package:provider/provider.dart';
 
 void main() {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ListViewDemo/models/Item.dart';
+import 'package:ListItemsDemo/models/Item.dart';
 
 class Items extends ChangeNotifier {
   final List<Item> _data = <Item>[];
